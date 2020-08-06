@@ -1,0 +1,1 @@
+# cypress-intellisense-not-working
